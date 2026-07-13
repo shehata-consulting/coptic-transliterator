@@ -2,15 +2,15 @@
 
 ### **Important Update: Introducing the New AI-Enhanced Web Tool!** 🚀
 
-I'm excited to announce the launch of a new, advanced Coptic Transliteration Tool that builds upon the foundations of this repository, now featuring **Google AI's Gemini 2.0 Flash Lite** model and a user-friendly web interface!
+I'm excited to announce the launch of a new, advanced Coptic Transliteration Tool that builds upon the foundations of this repository, now featuring **Google AI's Gemini 2.5 Flash Lite** model and a user-friendly web interface!
 
-For those looking for an interactive, AI-powered experience, I've developed a dedicated web application. Additionally, I have transitioing the rule-based approach away from using Pynini to simplify the implementation. You can also access that on the new GitHub repository linked below.
+For those looking for an interactive, AI-powered experience, I've developed a dedicated web application. Additionally, I have transitioned the rule-based approach away from using Pynini to simplify the implementation. You can also access that on the new GitHub repository linked below.
 
 ---
 
 **Key Features of the New AI-Enhanced Tool:**
 
-* **✨ AI-Powered Transliteration:** Utilizes **Gemini 2.0 Flash Lite** for more contextual and nuanced transliterations, offering higher accuracy for complex texts.
+* **✨ AI-Powered Transliteration:** Utilizes **Gemini 2.5 Flash Lite** for more contextual and nuanced transliterations, offering higher accuracy for complex texts.
 * **🌐 Web-Based Interface:** An intuitive Streamlit application accessible directly in your browser, no local setup required after deployment.
 * **🚀 Easy to Use:** Simply paste your Coptic text or upload a file, and get instant transliterations.
 * **🤝 Hybrid Approach:** Still includes the robust rule-based transliterator as a fallback and for comparison.
@@ -19,7 +19,7 @@ For those looking for an interactive, AI-powered experience, I've developed a de
 
 You can find the new project and its deployed version here:
 
-* **GitHub Repository:** [shehatamichael/coptic-transliterator-llm](https://github.com/shehatamichael/coptic-transliterator-llm)
+* **GitHub Repository:** [shehata-consulting/coptic-transliterator-llm](https://github.com/shehata-consulting/coptic-transliterator-llm)
 * **Live Application:** (https://coptic-transliterator-llm.streamlit.app/)
 
 ---
@@ -50,7 +50,7 @@ Eeta -- ⲏ
 
 If you use this tool in your program or research, we would appreciate if you cite this paper:
 
-> [Coptic Transliteration Tool](https://github.com/shehatamichael/coptic-transliterator/blob/master/Coptic%20Transliteration%20Tool.pdf), May 2020, Michael Shehata, Montclair State University of New Jersey, U.S.,.
+> [Coptic Transliteration Tool](https://github.com/shehata-consulting/coptic-transliterator/blob/master/Coptic%20Transliteration%20Tool.pdf), May 2020, Michael Shehata, Montclair State University of New Jersey, U.S.,.
 
 ## Collaborators
 
